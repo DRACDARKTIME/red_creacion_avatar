@@ -1,0 +1,11 @@
+*.csv
+*.zip
+__MACOSX
+.env
+.sass-cache
+*.jpg
+*.jpeg
+*.png
+yo
+*.tar.gz
+
